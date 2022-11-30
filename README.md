@@ -1,6 +1,6 @@
 # Makine Öğrenmesi Sınıflandırma Algoritması : Destek Vektör Makineleri Raporu
 ## İÇİNDEKİLER
-* [SINIFLANDIRMA](https://github.com/evinAydinUlgen/MachineLearning_SVM/edit/main/README.md#siniflandirma)
+* [SINIFLANDIRMA](https://github.com/evinAydinUlgen/MachineLearning_SVM#siniflandirma)
   * [Makine Öğrenmesi](https://github.com/evinAydinUlgen/MachineLearning_SVM/edit/main/README.md#makine-%C3%B6%C4%9Frenmesi)
   * [Classification(Sınıflandırma) Nedir?](https://github.com/evinAydinUlgen/MachineLearning_SVM/edit/main/README.md#classification-s%C4%B1n%C4%B1fland%C4%B1rma-nedir)
     * [Sınıflandırma Türleri](https://github.com/evinAydinUlgen/MachineLearning_SVM/edit/main/README.md#s%C4%B1n%C4%B1fland%C4%B1rma-t%C3%BCrleri)
