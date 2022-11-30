@@ -16,7 +16,7 @@
   * [DVM Avantaj Ve Dezavantajları](https://github.com/evinAydinUlgen/MachineLearning_SVM/blob/main/README.md#dvm-avantaj-ve-dezavantajlar%C4%B1)
 * [DOĞRUSAL OLAN\OLMAYAN DVM](https://github.com/evinAydinUlgen/MachineLearning_SVM/blob/main/README.md#do%C4%9Frusal-olanolmayan-dvm)
   * [Doğrusal Olan Destek Vektör Makineleri](https://github.com/evinAydinUlgen/MachineLearning_SVM/blob/main/README.md#1do%C4%9Frusal-destek-vekt%C3%B6r-makineleri)
-  * [Doğrusal Olmayan Destek Vektör Makineleri](https://github.com/evinAydinUlgen/MachineLearning_SVM/edit/main/README.md#2do%C4%9Frusal-olmayan-destek-vekt%C3%B6r-makineleri)
+  * [Doğrusal Olmayan Destek Vektör Makineleri](https://github.com/evinAydinUlgen/MachineLearning_SVM/blob/main/README.md#2do%C4%9Frusal-olmayan-destek-vekt%C3%B6r-makineleri)
 * [DVM KULLANIM ALANLARI](https://github.com/evinAydinUlgen/MachineLearning_SVM/edit/main/README.md#dvm-kullanim-alanlari)
 * [KAYNAKÇA](https://github.com/evinAydinUlgen/MachineLearning_SVM/edit/main/README.md#kaynak%C3%A7a)
 
