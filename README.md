@@ -2,7 +2,7 @@
 ## İÇİNDEKİLER
 * [SINIFLANDIRMA](https://github.com/evinAydinUlgen/MachineLearning_SVM#siniflandirma)
   * [Makine Öğrenmesi](https://github.com/evinAydinUlgen/MachineLearning_SVM#makine-%C3%B6%C4%9Frenmesi)
-  * [Classification(Sınıflandırma) Nedir?](https://github.com/evinAydinUlgen/MachineLearning_SVM/edit/main/README.md#classification-s%C4%B1n%C4%B1fland%C4%B1rma-nedir)
+  * [Classification(Sınıflandırma) Nedir?](https://github.com/evinAydinUlgen/MachineLearning_SVM/blob/main/README.md#classification-s%C4%B1n%C4%B1fland%C4%B1rma-nedir)
     * [Sınıflandırma Türleri](https://github.com/evinAydinUlgen/MachineLearning_SVM/edit/main/README.md#s%C4%B1n%C4%B1fland%C4%B1rma-t%C3%BCrleri)
       * [İkili Sınıflandırma](https://github.com/evinAydinUlgen/MachineLearning_SVM/edit/main/README.md#i%CC%87kili-s%C4%B1n%C4%B1fland%C4%B1rma)
       * [Çok Sınıflı Sınıflandırma](https://github.com/evinAydinUlgen/MachineLearning_SVM/edit/main/README.md#%C3%A7ok-s%C4%B1n%C4%B1fl%C4%B1-s%C4%B1n%C4%B1fland%C4%B1rma)
