@@ -11,7 +11,7 @@
    * [Model Başarısı Değerlendirme-Sınıflandırma](https://github.com/evinAydinUlgen/MachineLearning_SVM/blob/main/README.md#model-ba%C5%9Far%C4%B1s%C4%B1-de%C4%9Ferlendirme-s%C4%B1n%C4%B1fland%C4%B1rma)
 * [DESTEK VEKTÖR MAKİNELERİ](https://github.com/evinAydinUlgen/MachineLearning_SVM/blob/main/README.md#destek-vekt%C3%B6r-maki%CC%87neleri%CC%87)
   * [Tarihçe](https://github.com/evinAydinUlgen/MachineLearning_SVM/blob/main/README.md#tarih%C3%A7e)
-  * [Destek Vektör Makineleri Nedir?](https://github.com/evinAydinUlgen/MachineLearning_SVM/edit/main/README.md#destek-vekt%C3%B6r-makineleri-nedir)
+  * [Destek Vektör Makineleri Nedir?](https://github.com/evinAydinUlgen/MachineLearning_SVM/blob/main/README.md#destek-vekt%C3%B6r-makineleri-nedir)
   * [Destek Vektör Makineleri Nasıl Çalışır?](https://github.com/evinAydinUlgen/MachineLearning_SVM/edit/main/README.md#destek-vekt%C3%B6r-makineleri-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r)
   * [DVM Avantaj Ve Dezavantajları](https://github.com/evinAydinUlgen/MachineLearning_SVM/edit/main/README.md#dvm-avantaj-ve-dezavantajlar%C4%B1)
 * [DOĞRUSAL OLAN\OLMAYAN DVM](https://github.com/evinAydinUlgen/MachineLearning_SVM/edit/main/README.md#do%C4%9Frusal-olanolmayan-dvm)
