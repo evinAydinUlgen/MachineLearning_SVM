@@ -8,7 +8,7 @@
       * [Çok Sınıflı Sınıflandırma](https://github.com/evinAydinUlgen/MachineLearning_SVM/blob/main/README.md#%C3%A7ok-s%C4%B1n%C4%B1fl%C4%B1-s%C4%B1n%C4%B1fland%C4%B1rma)
   * [Sınıflandırma Algoritmaları](https://github.com/evinAydinUlgen/MachineLearning_SVM/blob/main/README.md#s%C4%B1n%C4%B1fland%C4%B1rma-algoritmalar%C4%B1)
   * [Sınıflandırma Örneği: Meyveler Örneği](https://github.com/evinAydinUlgen/MachineLearning_SVM/blob/main/README.md#s%C4%B1n%C4%B1fland%C4%B1rma-%C3%B6rne%C4%9Fi)
-   * [Model Başarısı Değerlendirme-Sınıflandırma](https://github.com/evinAydinUlgen/MachineLearning_SVM/edit/main/README.md#model-ba%C5%9Far%C4%B1s%C4%B1-de%C4%9Ferlendirme-s%C4%B1n%C4%B1fland%C4%B1rma)
+   * [Model Başarısı Değerlendirme-Sınıflandırma](https://github.com/evinAydinUlgen/MachineLearning_SVM/blob/main/README.md#model-ba%C5%9Far%C4%B1s%C4%B1-de%C4%9Ferlendirme-s%C4%B1n%C4%B1fland%C4%B1rma)
 * [DESTEK VEKTÖR MAKİNELERİ](https://github.com/evinAydinUlgen/MachineLearning_SVM/edit/main/README.md#destek-vekt%C3%B6r-maki%CC%87neleri%CC%87)
   * [Tarihçe](https://github.com/evinAydinUlgen/MachineLearning_SVM/edit/main/README.md#tarih%C3%A7e)
   * [Destek Vektör Makineleri Nedir?](https://github.com/evinAydinUlgen/MachineLearning_SVM/edit/main/README.md#destek-vekt%C3%B6r-makineleri-nedir)
