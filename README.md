@@ -1,4 +1,19 @@
-# Makine Öğrenmesi Sınıflandırma Algoritması : Destek Vektör Makineleri Raporu
+
+# T.C. BURSA TEKNİK ÜNİVERSİTESİ BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
+
+
+## Makine Öğrenmesi Sınıflandırma Algoritması : Destek Vektör Makineleri Raporu
+#### (Makine Öğrenmesi Dersi Dönem Ödevi)
+
+
+### Hazırlayan: Evin AYDİN ÜLGEN 19360859066
+
+
+### Öğretim Üyesi: Yüksek Bilgisayar Mühendisi Kader NİKBAY OYLUM
+
+
+
+
 ## İÇİNDEKİLER
 * [SINIFLANDIRMA](https://github.com/evinAydinUlgen/MachineLearning_SVM#siniflandirma)
   * [Makine Öğrenmesi](https://github.com/evinAydinUlgen/MachineLearning_SVM#makine-%C3%B6%C4%9Frenmesi)
